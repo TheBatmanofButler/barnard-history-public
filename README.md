@@ -1,6 +1,6 @@
 # barnard-history-public
 
-#### (This is the publicly available documentation for the barnard History Data Portal, which is a closed source web application under copyright by Barnard College. The Barnard logo and branding are property of Barnard College.)
+#### (This is the publicly available documentation for the Barnard History Data Portal, which is a closed source web application under copyright by Barnard College. The Barnard logo and branding are property of Barnard College.)
 
 ![Homepage screenshot](readme-images/barnard-screenshot.png)
 
