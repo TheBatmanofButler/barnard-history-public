@@ -1,10 +1,21 @@
 # barnard-history-public
 
 ## Background
-Pedal Technologies was commissioned by Barnard College to set up a database and visual data explorer devoted to the history of the institution. We collaborated with Prof. Robert McCaughey to digitize his research on the people and events in Barnard's history.
+Pedal Technologies was commissioned by Barnard College to set up a database and visual data explorer devoted to the history of the institution. We collaborated with Prof. Robert McCaughey to digitize his research on the people and events in Barnard's history. The data portal is currently under development, but will eventually be available at [https://barnardhistory.org/].
+![Homepage screenshot](readme-images/barnard-screenshot.png)
 
 ## Features
-- The database is powered by MongoDB and hosted on a DigitalOcean Ubuntu Droplet. We chose MongoDB because it does not require a schema and is easy to query and scale.
-- 
-- The basic and advanced search options query the database and return results on a clean and user-friendly results page.
-- The visual data explorer facilitates the identification of patterns and trends in the database over extended periods of time. Users can harness this tool to see how various parameters change in the Barnard population over different eras of its history.
+
+### Database
+- Users can search a MongoDB-powered database of people, places, documents, and events beyond the 120+ year history of Barnard College
+![Results screenshot](readme-images/results-screenshot.png)
+
+### Search
+- Users can quickly search for entries by name, or use the advanced search form to run a more specified query
+![Advanced search screenshot](readme-images/advanced-search-screenshot.png)
+
+
+### Visual Explorer
+- Entries from the database automatically populate the data visualization. Users can use this tool to identify patterns and trends over extended periods of time
+![Visual explorer screenshot](readme-images/visualization-screenshot.png)
+
